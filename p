@@ -1,5 +1,3 @@
 parimala
-good
-
 veni
-
+meenu
